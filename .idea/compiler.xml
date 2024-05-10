@@ -11,9 +11,6 @@
         <module name="jobms" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="service-reg" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

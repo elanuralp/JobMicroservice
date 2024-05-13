@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="eureka server">
-      <change afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/mapper/JobMapper.java" afterDir="false" />
+    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="job mapper added">
+      <change afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/external/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/JobController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/JobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/JobService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/dto/JobWithCompanyDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/dto/JobWithCompanyDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/dto/JobWithCompanyDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/dto/JobDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/impl/JobServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/impl/JobServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobController.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/impl/JobServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/impl/JobServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/mapper/JobMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/mapper/JobMapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +216,7 @@
       <updated>1715371476821</updated>
       <workItem from="1715371478381" duration="289000" />
       <workItem from="1715371821458" duration="4954000" />
-      <workItem from="1715595363425" duration="4073000" />
+      <workItem from="1715595363425" duration="5870000" />
     </task>
     <task id="LOCAL-00001" summary="function change">
       <option name="closed" value="true" />
@@ -308,7 +306,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715597544803</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="job mapper added">
+      <option name="closed" value="true" />
+      <created>1715603146715</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715603146715</updated>
+    </task>
+    <task id="LOCAL-00013" summary="job mapper added">
+      <option name="closed" value="true" />
+      <created>1715603212542</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715603212542</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +333,7 @@
     <MESSAGE value="function change" />
     <MESSAGE value="eureka server register" />
     <MESSAGE value="eureka server" />
-    <option name="LAST_COMMIT_MESSAGE" value="eureka server" />
+    <MESSAGE value="job mapper added" />
+    <option name="LAST_COMMIT_MESSAGE" value="job mapper added" />
   </component>
 </project>

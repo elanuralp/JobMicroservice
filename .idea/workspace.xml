@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="eureka server register">
-      <change afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyms/companyms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/companyms/companyms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyms/companyms/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/companyms/companyms/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyms/companyms/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/companyms/companyms/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/impl/JobServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/java/com/spring/jobms/job/impl/JobServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/JobmsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/JobmsApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/Job.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobController.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/JobService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/dto/JobWithCompanyDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/dto/JobWithCompanyDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/external/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/external/Company.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/impl/JobServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/com/spring/jobms/job/impl/JobServiceImpl.class" afterDir="false" />
-    </list>
+    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="eureka server" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -188,10 +182,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ReviewmsApplication" />
         <item itemvalue="Spring Boot.JobmsApplication" />
         <item itemvalue="Spring Boot.CompanymsApplication" />
         <item itemvalue="Spring Boot.ServiceRegApplication" />
-        <item itemvalue="Spring Boot.ReviewmsApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +208,7 @@
       <updated>1715371476821</updated>
       <workItem from="1715371478381" duration="289000" />
       <workItem from="1715371821458" duration="4954000" />
-      <workItem from="1715595363425" duration="1213000" />
+      <workItem from="1715595363425" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="function change">
       <option name="closed" value="true" />
@@ -280,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715595304625</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="eureka server">
+      <option name="closed" value="true" />
+      <created>1715597221658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715597221659</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +292,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="function change" />
     <MESSAGE value="eureka server register" />
-    <option name="LAST_COMMIT_MESSAGE" value="eureka server register" />
+    <MESSAGE value="eureka server" />
+    <option name="LAST_COMMIT_MESSAGE" value="eureka server" />
   </component>
 </project>

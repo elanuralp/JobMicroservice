@@ -3,6 +3,8 @@ package com.spring.jobms.job;
 
 import jakarta.persistence.*;
 
+import javax.swing.*;
+
 @Entity
 //@Table(name = "job_table") // This is optional, if you want to specify the table name
 public class Job {
@@ -23,9 +25,14 @@ public class Job {
         this.minSalary = minSalary;
         this.maxSalary = maxSalary;
         this.location = location;
+
+
     }
 
+
+
     public Job() {
+
 
     }
 

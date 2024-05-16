@@ -4,32 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="open feign added">
-      <change afterPath="$PROJECT_DIR$/ConfigServer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/src/main/java/com/spring/configserver/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigServer/src/test/java/com/spring/configserver/ConfigServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="Config Server">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyms/companyms/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/companyms/companyms/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyms/companyms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/companyms/companyms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyms/companyms/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/companyms/companyms/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyms/companyms/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/companyms/companyms/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigServer/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobms/jobms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviewms/reviewms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reviewms/reviewms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviewms/reviewms/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reviewms/reviewms/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviewms/reviewms/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reviewms/reviewms/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-reg/service-reg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-reg/service-reg/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-reg/service-reg/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-reg/service-reg/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,9 +200,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.JobmsApplication" />
         <item itemvalue="Spring Boot.ServiceRegApplication" />
         <item itemvalue="Spring Boot.ReviewmsApplication" />
-        <item itemvalue="Spring Boot.JobmsApplication" />
         <item itemvalue="Spring Boot.CompanymsApplication" />
       </list>
     </recent_temporary>
@@ -247,7 +228,7 @@
       <workItem from="1715371821458" duration="4954000" />
       <workItem from="1715595363425" duration="7201000" />
       <workItem from="1715679691714" duration="12801000" />
-      <workItem from="1715860873034" duration="1546000" />
+      <workItem from="1715860873034" duration="4428000" />
     </task>
     <task id="LOCAL-00001" summary="function change">
       <option name="closed" value="true" />
@@ -377,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715687152127</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Config Server">
+      <option name="closed" value="true" />
+      <created>1715862685886</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715862685886</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,6 +380,7 @@
     <MESSAGE value="job mapper added" />
     <MESSAGE value="review mapper added" />
     <MESSAGE value="open feign added" />
-    <option name="LAST_COMMIT_MESSAGE" value="open feign added" />
+    <MESSAGE value="Config Server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config Server" />
   </component>
 </project>

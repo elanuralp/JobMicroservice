@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="Config Server">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConfigServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigServer/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobms/jobms/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jobms/jobms/target/classes/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="Config Server added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +221,7 @@
       <workItem from="1715371821458" duration="4954000" />
       <workItem from="1715595363425" duration="7201000" />
       <workItem from="1715679691714" duration="12801000" />
-      <workItem from="1715860873034" duration="4428000" />
+      <workItem from="1715860873034" duration="4750000" />
     </task>
     <task id="LOCAL-00001" summary="function change">
       <option name="closed" value="true" />
@@ -366,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715862685886</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Config Server added">
+      <option name="closed" value="true" />
+      <created>1715865655090</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715865655090</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +382,7 @@
     <MESSAGE value="review mapper added" />
     <MESSAGE value="open feign added" />
     <MESSAGE value="Config Server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Config Server" />
+    <MESSAGE value="Config Server added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config Server added" />
   </component>
 </project>

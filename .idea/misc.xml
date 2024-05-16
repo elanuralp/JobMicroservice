@@ -9,7 +9,15 @@
         <option value="$PROJECT_DIR$/reviewms/reviewms/pom.xml" />
         <option value="$PROJECT_DIR$/service-reg/service-reg/pom.xml" />
         <option value="$PROJECT_DIR$/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/jobms/jobms/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/companyms/companyms/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/companyms/companyms/gateway/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK" />

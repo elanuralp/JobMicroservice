@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="API Gateway added">
+    <list default="true" id="41a2085a-a8b5-4393-bde9-ab084ede39b6" name="Changes" comment="API Gateway routing problem solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +92,7 @@
     "Spring Boot.CompanymsApplication.executor": "Run",
     "Spring Boot.ConfigServerApplication.executor": "Run",
     "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.JobmsApplication 9082.executor": "Run",
     "Spring Boot.JobmsApplication.executor": "Run",
     "Spring Boot.ReviewmsApplication.executor": "Run",
     "Spring Boot.ServiceRegApplication.executor": "Run",
@@ -124,7 +124,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.JobmsApplication">
+  <component name="RunManager" selected="Spring Boot.JobmsApplication 9082">
     <configuration name="CompanymsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="companyms" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.companyms.CompanymsApplication" />
@@ -148,6 +148,25 @@
     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobmsApplication 9082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="jobms" />
+      <selectedOptions>
+        <option name="spring.boot.profiles" visible="false" />
+      </selectedOptions>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.jobms.JobmsApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9082" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.jobms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -199,6 +218,7 @@
     <list>
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.JobmsApplication 9082" />
       <item itemvalue="Spring Boot.CompanymsApplication" />
       <item itemvalue="Spring Boot.JobmsApplication" />
       <item itemvalue="Spring Boot.ReviewmsApplication" />
@@ -234,7 +254,7 @@
       <workItem from="1715371821458" duration="4954000" />
       <workItem from="1715595363425" duration="7201000" />
       <workItem from="1715679691714" duration="12801000" />
-      <workItem from="1715860873034" duration="8802000" />
+      <workItem from="1715860873034" duration="10696000" />
     </task>
     <task id="LOCAL-00001" summary="function change">
       <option name="closed" value="true" />
@@ -404,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715871261021</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="API Gateway routing problem solved">
+      <option name="closed" value="true" />
+      <created>1715880722053</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715880722053</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,6 +449,7 @@
     <MESSAGE value="Config Server" />
     <MESSAGE value="Config Server added" />
     <MESSAGE value="API Gateway added" />
-    <option name="LAST_COMMIT_MESSAGE" value="API Gateway added" />
+    <MESSAGE value="API Gateway routing problem solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Gateway routing problem solved" />
   </component>
 </project>
